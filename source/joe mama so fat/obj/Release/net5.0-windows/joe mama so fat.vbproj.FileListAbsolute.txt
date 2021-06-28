@@ -1,0 +1,17 @@
+D:\Compilation\joe mama so fat\net5.0-windows\joe mama so fat.exe
+D:\Compilation\joe mama so fat\net5.0-windows\joe mama so fat.deps.json
+D:\Compilation\joe mama so fat\net5.0-windows\joe mama so fat.runtimeconfig.json
+D:\Compilation\joe mama so fat\net5.0-windows\joe mama so fat.runtimeconfig.dev.json
+D:\Compilation\joe mama so fat\net5.0-windows\joe mama so fat.dll
+D:\Compilation\joe mama so fat\net5.0-windows\ref\joe mama so fat.dll
+D:\Compilation\joe mama so fat\net5.0-windows\joe mama so fat.pdb
+C:\Users\alv2i\source\repos\joe mama so fat\joe mama so fat\obj\Release\net5.0-windows\joe_mama_so_fat.Form1.resources
+C:\Users\alv2i\source\repos\joe mama so fat\joe mama so fat\obj\Release\net5.0-windows\joe mama so fat.vbproj.GenerateResource.cache
+C:\Users\alv2i\source\repos\joe mama so fat\joe mama so fat\obj\Release\net5.0-windows\joe mama so fat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alv2i\source\repos\joe mama so fat\joe mama so fat\obj\Release\net5.0-windows\joe mama so fat.AssemblyInfoInputs.cache
+C:\Users\alv2i\source\repos\joe mama so fat\joe mama so fat\obj\Release\net5.0-windows\joe mama so fat.AssemblyInfo.vb
+C:\Users\alv2i\source\repos\joe mama so fat\joe mama so fat\obj\Release\net5.0-windows\joe mama so fat.vbproj.CoreCompileInputs.cache
+C:\Users\alv2i\source\repos\joe mama so fat\joe mama so fat\obj\Release\net5.0-windows\joe mama so fat.dll
+C:\Users\alv2i\source\repos\joe mama so fat\joe mama so fat\obj\Release\net5.0-windows\ref\joe mama so fat.dll
+C:\Users\alv2i\source\repos\joe mama so fat\joe mama so fat\obj\Release\net5.0-windows\joe mama so fat.pdb
+C:\Users\alv2i\source\repos\joe mama so fat\joe mama so fat\obj\Release\net5.0-windows\joe mama so fat.genruntimeconfig.cache
